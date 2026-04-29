@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Feliciano Mello
+#  Lucas Feliciano Mello
 
 **`Desenvolvedor Python | Automação | Data Analyst`**
 
